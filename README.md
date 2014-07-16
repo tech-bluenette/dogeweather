@@ -1,7 +1,4 @@
-dogeweather
-===========
-
-Such Weather
+Karlweather: An adaptation of Dogeweather.
 
 http://dogeweather.com
 
