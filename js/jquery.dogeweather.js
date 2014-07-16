@@ -85,13 +85,13 @@
         }
         else if (suchtemp > 10 && suchtemp <= 20)
         {
-            var sofirst = "moderate";
-            var sosecond = "mild";
-            var sothird = "okay";
-            var sofourth = "medium";
-            var sofifth = "cool";
-            var sosixth = "whatever";
-            var soseventh = "brisk";
+            var sofirst = "motorcycles";
+            var sosecond = "cheese";
+            var sothird = "wine";
+            var sofourth = "hilarious gifs";
+            var sofifth = "elegant designs";
+            var sosixth = "Greece";
+            var soseventh = "motorcycles";
         }
         else if (suchtemp > 20 && suchtemp <= 30)
         {
