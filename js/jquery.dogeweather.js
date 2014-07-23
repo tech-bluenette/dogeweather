@@ -90,7 +90,7 @@
             var sothird = "wine";
             var sofourth = "hilarious gifs";
             var sofifth = "elegant designs";
-            var sosixth = "Greece";
+            var sosixth = "warm";
             var soseventh = "motorcycles";
         }
         else if (suchtemp > 20 && suchtemp <= 30)
