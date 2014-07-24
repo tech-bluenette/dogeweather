@@ -35,10 +35,10 @@
         console.log(suchtemp + "temp");
         if (suchtemp <= -30)
         {
-            var sofirst = "winter";
+            var sofirst = "motorcycles";
             var sosecond = "freeze";
             var sothird = "polar vortex";
-            var sofourth = "ridiculous";
+            var sofourth = "Karl";
             var sofifth = "hibernate";
             var sosixth = "climate change";
             var soseventh = "doom";
@@ -49,28 +49,28 @@
             var sosecond = "freeze";
             var sothird = "shiver";
             var sofourth = "ice";
-            var sofifth = "yuck";
-            var sosixth = "climate change";
+            var sofifth = "Karl";
+            var sosixth = "motorcycles";
             var soseventh = "popsicle";
         }
         else if (suchtemp > -15 && suchtemp <= -7)
         {
             var sofirst = "icy";
-            var sosecond = "winter";
+            var sosecond = "motorcycles";
             var sothird = "chill";
             var sofourth = "crisp";
             var sofifth = "brrrrr";
-            var sosixth = "cool";
+            var sosixth = "Karl";
             var soseventh = "not okay";
         }
         else if (suchtemp > -7 && suchtemp <= 0)
         {
             var sofirst = "icy";
-            var sosecond = "frost";
+            var sosecond = "Karl";
             var sothird = "numb";
             var sofourth = "shiver";
             var sofifth = "brrr";
-            var sosixth = "chilly";
+            var sosixth = "motorcycles";
             var soseventh = "below freezing point";
         }
         else if (suchtemp > 0 && suchtemp <= 10)
@@ -79,17 +79,17 @@
             var sosecond = "concern";
             var sothird = "coat";
             var sofourth = "frosty";
-            var sofifth = "uh oh";
+            var sofifth = "Karl";
             var sosixth = "brrrr";
-            var soseventh = "almost freezing";
+            var soseventh = "motorcycles";
         }
         else if (suchtemp > 10 && suchtemp <= 20)
         {
             var sofirst = "motorcycles";
-            var sosecond = "cheese";
-            var sothird = "wine";
-            var sofourth = "hilarious gifs";
-            var sofifth = "elegant designs";
+            var sosecond = "warmth";
+            var sothird = "temperate";
+            var sofourth = "Karl";
+            var sofifth = "nice weather";
             var sosixth = "warm";
             var soseventh = "motorcycles";
         }
@@ -97,28 +97,28 @@
         {
             var sofirst = "heat";
             var sosecond = "warmth";
-            var sothird = "climate";
+            var sothird = "Karl";
             var sofourth = "sweating";
             var sofifth = "balmy";
-            var sosixth = "nice day";
+            var sosixth = "motorcycles";
             var soseventh = "ambient";
         }
         else if (suchtemp > 30)
         {
             var sofirst = "boiling";
-            var sosecond = "bake";
+            var sosecond = "motorcycles";
             var sothird = "melt";
             var sofourth = "dying";
             var sofifth = "suffer";
             var sosixth = "global warming";
-            var soseventh = "tropical heat";
+            var soseventh = "Karl";
         }
         else
         {
             var sofirst = "concern";
-            var sosecond = "climate";
+            var sosecond = "Karl";
             var sothird = "degrees";
-            var sofourth = "shrug";
+            var sofourth = "motorcycles";
             var sofifth = "wow";
             var sosixth = "celcius";
             var soseventh = "farenheit";
@@ -181,7 +181,7 @@
         }
         else {
         var dogefix = [
-            'wow', 'such weather', 'much doge'
+            'wow', 'such weather', 'much Karl'
         ];
         }
         var dogefix = [
